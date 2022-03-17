@@ -1,0 +1,43 @@
+:root {
+    --white:#fff;
+    --pink: #e83e8c;
+    --info: #17a2b8;
+    --black: #212529;
+    /* --font-principal: 'Open Sans', sans-serif; */
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    /* color: var(--white); */
+    /* color: #fff;
+    background: var(--white); */
+}
+
+.nav--img {
+    height: 3rem;
+}
+
+.bg-pink{
+
+    background-color: var(--pink)
+
+}
+
+.h1--color{
+
+    color: #707070;
+
+}
+
+.h1--weight{
+
+    font-weight: 700;
+}
+
+
+.card-tittle{
+
+    font-weight: 700;
+    color: #373a3c;
+}
+
